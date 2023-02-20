@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nishacoder1
-- 👀 I’m interested in HTML,CSS &JS
+- 👀 I’m interested in HTML,CSS & JS
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me nishavermakeck@gmail.com
